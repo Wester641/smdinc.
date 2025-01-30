@@ -1,0 +1,23 @@
+{
+  "name": "jocey-html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wester641/smdinc..git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wester641/smdinc./issues"
+  },
+  "homepage": "https://github.com/Wester641/smdinc.#readme",
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  }
+}
